@@ -37,7 +37,7 @@ This method using for APIs request to python service.
 ```http
   GET https://127.0.0.1:3000/
 ```
-Get greeting page with "Hello World !" message.
+Get greeting page with giant button in center of page. The button will send request to python service and update text on the screen.
 
 ```http
   GET https://127.0.0.1:3000/callPython

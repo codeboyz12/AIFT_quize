@@ -17,7 +17,7 @@ This repository use by **พระจอมพร้อมกระโจน** f
 
 ## Usage/Examples
 
-You can access and test example via web browser or Postman. Go to the url below.
+You'll see html page. the button will send request to python service and update text on the screen.
 
 #### Access to NodeJS Service
 ```bash
@@ -37,7 +37,7 @@ This method using for APIs request to python service.
 ```http
   GET https://127.0.0.1:3000/
 ```
-Get greeting page with giant button in center of page. The button will send request to python service and update text on the screen.
+Get greeting page with giant button.
 
 ```http
   GET https://127.0.0.1:3000/callPython
